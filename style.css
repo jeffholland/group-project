@@ -49,3 +49,8 @@ main h2 {
     background-color: green;
     color: white;
 }
+.jeff-style {
+    background-color: rgb(250, 0, 100);
+    color: rgb(0, 252, 190);
+    padding: 3px;
+}
